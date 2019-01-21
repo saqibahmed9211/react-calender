@@ -1,0 +1,97 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    width : 100%;
+}
+
+.col-3{
+    flex : 25%;
+}
+
+.col-7{
+    flex : 70%
+}
+
+.col-6{
+    flex : 40%
+}
+
+.col-4{
+    flex :30%
+}
+
+.data-container{
+    padding : 0px, 10px, 0px, 10px;
+    border: 1px solid;
+}
+
+.add-btn{
+    width: 150px;
+    height: 4em;
+    border-radius: 20px;
+    border: 2px solid black;
+    background-color: #e67e22;
+    color: white
+}
+
+.navigate-btn{
+    height: 4em;
+    border: 2px solid black;
+    width : 60px;
+    margin : 0px 10px 0 10px;
+}
+
+.center{
+    text-align: center
+}
+
+.container{
+    margin:20px;
+}
+
+.data-container{
+    margin : 1% 30% 1% 30%
+}
+
+.time-line{
+    background-color: gainsboro;
+}
+
+.left{
+    text-align: left;
+}
+
+.save-btn{
+    width: 46%;
+    height: 31px;
+}
+
+.content-padding{
+    padding : 10px;
+}
+
+.add-form-padding{
+    padding-top: 1%;
+    border : 1px solid
+}
+
+.green-background{
+    background-color: lightgreen
+}
+
+.add-event-margin{
+    text-align: center 
+}
+
+.add-from-padding{
+    padding-top: 3%;
+}
+
+.date-padding{
+    padding-top: 15px;
+    font-weight: bold
+}

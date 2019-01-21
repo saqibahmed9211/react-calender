@@ -1,0 +1,1 @@
+{"version":3,"file":"event-reducer.js","sourceRoot":"","sources":["../../src/reducers/event-reducer.tsx"],"names":[],"mappings":";;AAAA,mBAAwB,KAAkB,EAAE,MAAY;IAAhC,sBAAA,EAAA,YAAkB;IACtC,QAAO,MAAM,CAAC,IAAI,EAAC;QACf,KAAM,gBAAgB;YAClB,OAAO,MAAM,CAAC,OAAO,CAAA;YACrB,MAAM;KACb;IACD,OAAO,KAAK,CAAA;AAChB,CAAC;AAPD,4BAOC"}
